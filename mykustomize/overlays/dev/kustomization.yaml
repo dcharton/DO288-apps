@@ -1,0 +1,6 @@
+resources:
+ - secret.yaml
+bases:
+ - ../../base
+patches:
+ - 
